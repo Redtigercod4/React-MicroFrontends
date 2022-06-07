@@ -1,0 +1,11 @@
+{
+  "name": "micro-no3",
+  "version": "1.0.0",
+  "description": "Micro app number 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Whittle",
+  "license": "MIT"
+}
